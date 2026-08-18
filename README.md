@@ -31,6 +31,32 @@
 - 大模型云端 AI Infra 技术创新与探索：https://campus.jd.com/#/details?id=8772
 - 高性能大模型密态训推算法研究：https://campus.jd.com/#/details?id=8732
 
+### 实习生投递课题
+#京东探索研究院TGT实习生课题：
+- 多模态理解大模型全流程架构探索：https://campus.jd.com/#/details?id=8974
+- 世界模型与视频生成时空建模研究：https://campus.jd.com/#/details?id=8968
+- 音频大模型全链路交互架构前沿研究：https://campus.jd.com/#/details?id=8868
+- 千亿级大语言模型架构与分布式研究：https://campus.jd.com/#/details?id=8881
+- 具身智能训练数据评估与配方探索：https://campus.jd.com/#/details?id=8942
+- 具身移动操作基础模型与泛化控制探索：https://campus.jd.com/#/details?id=8940
+- 具身仿真数据合成与世界模型探索：https://campus.jd.com/#/details?id=8946
+- VLA模型与通用具身导航架构研究：https://campus.jd.com/#/details?id=8932
+- 具身世界模型与通用VLA大脑架构探索：https://campus.jd.com/#/details?id=8795
+- 多模态大模型高质量数据体系研究：https://campus.jd.com/#/details?id=8991
+- 多源异构数据的大模型持续预训练算法研究：https://campus.jd.com/#/details?id=8996
 
+#京东科技TGT实习生课题：
+- 大模型高吞吐低延迟推理引擎研发https://campus.jd.com/#/details?id=8841
+- 大模型训练与RL infra创新探索研究https://campus.jd.com/#/details?id=8851
+- 角色扮演、代理行为及对抗博弈在 LLM 中的应用探索https://campus.jd.com/#/details?id=8847
+- 语音驱动下的数字人唇形、表情和肢体动作一体化视频生成研究与应用https://campus.jd.com/#/details?id=8858
+- OmniDialogue：全模态理解和语音对话大模型探索研究https://campus.jd.com/#/details?id=8855
+- CodeAI代码大模型全链路与推理优化https://campus.jd.com/#/details?id=8883
+- 空间智能增强的具身端到端操作大模型探索研究https://campus.jd.com/#/details?id=8798
+- 机器人移动操作全身协同控制算法研究https://campus.jd.com/#/details?id=8805
+- 复杂几何空间与动态交互场景的移动避障导航算法研究https://campus.jd.com/#/details?id=8811
+
+## ⚠️ Notes
+- 岗位具体内容最终以京东官方招聘渠道为准
 
 ### 实习生投递课题
