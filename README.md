@@ -9,14 +9,14 @@
 ## 📝 TGT课题投递
 ### 应届生投递课题
 #京东探索研究院TGT课题：
-- 大模型预训练数据算法研究https://campus.jd.com/#/details?id=8726
-- 具身智能基础模型研究https://campus.jd.com/#/details?id=6073
-- 具身智能导航模型研究https://campus.jd.com/#/details?id=8730
-- 具身移动操作基础模型研究https://campus.jd.com/#/details?id=8752
-- 具身仿真与世界模型研究https://campus.jd.com/#/details?id=8720
-- 多模态理解与生成模型设计与优化https://campus.jd.com/#/details?id=6037
-- 多模态语音交互基础大模型算法研究https://campus.jd.com/#/details?id=8764
-- 基础大语言模型https://campus.jd.com/#/details?id=6039
+- 大模型预训练数据算法研究：https://campus.jd.com/#/details?id=8726
+- 具身智能基础模型研究：https://campus.jd.com/#/details?id=6073
+- 具身智能导航模型研究：https://campus.jd.com/#/details?id=8730
+- 具身移动操作基础模型研究：https://campus.jd.com/#/details?id=8752
+- 具身仿真与世界模型研究：https://campus.jd.com/#/details?id=8720
+- 多模态理解与生成模型设计与优化：https://campus.jd.com/#/details?id=6037
+- 多模态语音交互基础大模型算法研究：https://campus.jd.com/#/details?id=8764
+- 基础大语言模型：https://campus.jd.com/#/details?id=6039
 
 #京东科技TGT课题：
 - 代码智能化算法与应用：https://campus.jd.com/#/details?id=6027
@@ -46,15 +46,15 @@
 - 多源异构数据的大模型持续预训练算法研究：https://campus.jd.com/#/details?id=8996
 
 #京东科技TGT实习生课题：
-- 大模型高吞吐低延迟推理引擎研发https://campus.jd.com/#/details?id=8841
-- 大模型训练与RL infra创新探索研究https://campus.jd.com/#/details?id=8851
-- 角色扮演、代理行为及对抗博弈在 LLM 中的应用探索https://campus.jd.com/#/details?id=8847
-- 语音驱动下的数字人唇形、表情和肢体动作一体化视频生成研究与应用https://campus.jd.com/#/details?id=8858
-- OmniDialogue：全模态理解和语音对话大模型探索研究https://campus.jd.com/#/details?id=8855
-- CodeAI代码大模型全链路与推理优化https://campus.jd.com/#/details?id=8883
-- 空间智能增强的具身端到端操作大模型探索研究https://campus.jd.com/#/details?id=8798
-- 机器人移动操作全身协同控制算法研究https://campus.jd.com/#/details?id=8805
-- 复杂几何空间与动态交互场景的移动避障导航算法研究https://campus.jd.com/#/details?id=8811
+- 大模型高吞吐低延迟推理引擎研发：https://campus.jd.com/#/details?id=8841
+- 大模型训练与RL infra创新探索研究：https://campus.jd.com/#/details?id=8851
+- 角色扮演、代理行为及对抗博弈在 LLM 中的应用探索：https://campus.jd.com/#/details?id=8847
+- 语音驱动下的数字人唇形、表情和肢体动作一体化视频生成研究与应用：https://campus.jd.com/#/details?id=8858
+- OmniDialogue：全模态理解和语音对话大模型探索研究：https://campus.jd.com/#/details?id=8855
+- CodeAI代码大模型全链路与推理优化：https://campus.jd.com/#/details?id=8883
+- 空间智能增强的具身端到端操作大模型探索研究：https://campus.jd.com/#/details?id=8798
+- 机器人移动操作全身协同控制算法研究：https://campus.jd.com/#/details?id=8805
+- 复杂几何空间与动态交互场景的移动避障导航算法研究：https://campus.jd.com/#/details?id=8811
 
 ## ⚠️ Notes
 - 岗位具体内容最终以京东官方招聘渠道为准
