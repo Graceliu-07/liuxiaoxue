@@ -16,6 +16,7 @@
 - 多模态理解与生成模型设计与优化https://campus.jd.com/#/details?id=6037
 - 多模态语音交互基础大模型算法研究https://campus.jd.com/#/details?id=8764
 - 基础大语言模型https://campus.jd.com/#/details?id=6039
+
 #京东科技TGT课题：
 - 代码智能化算法与应用：https://campus.jd.com/#/details?id=6027
 - 语音驱动下的数字人唇形、表情和肢体动作一体化视频生成研究与应用： https://campus.jd.com/#/details?id=8780
